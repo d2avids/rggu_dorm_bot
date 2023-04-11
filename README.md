@@ -60,10 +60,10 @@ pip install -r requirements.txt
 
 Загрузить необходимые файлы в папку static
 
-Запустить бот:
+Запустить бота:
 
 ```
-python homework.py
+python bot.py
 ```
 ---
 ## Автор:
