@@ -18,7 +18,6 @@
 - Google Sheets API
 - Telegram BOT API
 - Библиотека logging
-- Библиотека Requests 2.26.0
 - Библиотека python-dotenv 0.19.0
 - Библиотека python-telegram-bot 13
 ---
